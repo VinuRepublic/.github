@@ -1,4 +1,4 @@
 # VinuRepublic | $VIR
-Built on the VinuChain. VinuRepublic's goal is to make it easier for all to contribute & support the Vinu Ecosystem in an easy manner.
-- [Website 🌐](coming soon)
+A Community-driven utility token on VinuChain. Delegate in VinuRepublic Node to watch $VINU & $VC burning alongside a Good APR!
+- [Website 🌐](https://vinurepublic.com)
 - [Whitepaper 📜](https://vinurepublic.gitbook.io/whitepaper)
